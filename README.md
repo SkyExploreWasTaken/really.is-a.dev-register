@@ -47,8 +47,7 @@ If you have any problems, feel free to <a href="https://github.com/really-is-a-d
 
 <h3>Credits</h3>
 
-This subdomain was granted entirely by [is-a.dev](https://github.com/is-a-dev/register) and this project is really just a big joke. 
-This wonderful code for the `register` repository was entirely copied from [is-not.cool](https://github.com/is-not-cool/registration). Thanks troll8m and CuteDog! :P
+This subdomain was granted entirely by [is-a.dev](https://github.com/is-a-dev/register) and this project is really just a big joke.<br>This wonderful code for the `register` repository was entirely copied from [is-not.cool](https://github.com/is-not-cool/registration). Thanks troll8m and CuteDog! :P
 
 <h3>Similar Services</h3>
 
