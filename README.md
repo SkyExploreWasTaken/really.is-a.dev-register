@@ -51,4 +51,4 @@ This subdomain was granted entirely by [is-a.dev](https://github.com/is-a-dev/re
 
 <h3>Similar Services</h3>
 
-If you want to find services similar to `really.is-a.dev`, please check out [is-not.cool](https://github.com/is-not-cool/registration) and [is-a.dev](https://github.com/is-a-dev/register).
+If you want to find services similar to `really.is-a.dev`, please check out [is-not.cool](https://github.com/is-not-cool/registration), [is-a.dev](https://github.com/is-a-dev/register) and [part-of.my.id](https://github.com/partofmyid/register)!
