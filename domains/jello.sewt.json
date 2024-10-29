@@ -1,0 +1,15 @@
+{
+    "description": "An archive for an old Minecraft client called Sigma (also called Jello for Sigma)",
+    "owner": {
+        "username": "SkyExploreWasTaken",
+        "discord": "skyexplorewastaken",
+        "email": "nope@idontwantgetspammed.thanks",
+        "repo": "https://github.com/SigmaJello/Archive"
+    },
+
+    "record": {
+        "A": ["82.67.68.228"]
+    },
+
+    "proxied": false
+}
