@@ -1,0 +1,14 @@
+{
+    "description": "My Website",
+    "owner": {
+        "username": "SkyExploreWasTaken",
+        "discord": "skyexplorewastaken",
+        "email": "nope@idontwantgetspammed.thanks",
+    },
+
+    "record": {
+        "A": ["82.67.68.228"]
+    },
+
+    "proxied": false
+}
